@@ -1,0 +1,236 @@
+.cancel-comment-reply {
+  margin-bottom: 10px;
+}
+.says {
+  display: none;
+}
+ol.commentlist {
+  list-style: none;
+  margin: 0px!important;
+  padding: 0px!important;
+}
+img.avatar {
+  padding: 2px;
+  border: 1px solid #DFDFDF;
+  float: right;
+  margin: 5px;
+}
+.reply {
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 11px;
+}
+.comment-author {
+  font-style: normal;
+  font-weight: bold;
+}
+li.comment {
+  border-top: 1px dotted #666666;
+  margin: 0px!important;
+  padding: 0px;
+  padding: 10px;
+  margin-top: 10px;
+  list-style: none !important;
+}
+li.comment ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  margin-left: 15px;
+}
+.comment-meta a {
+  color: #000000;
+  font-size: 11px;
+}
+.entry-content .navigation {
+  display: none;
+}
+h3#comments {
+  padding-bottom: 0px!important;
+}
+input#submit {
+  background: none repeat scroll 0 0 #76a5ec;
+  border: #ccc solid 1px;
+  border-radius: 5px;
+  color: #000;
+  cursor: pointer;
+  display: block;
+  font-family: "Helvetica", Arial, sans-serif;
+  margin: 0 0 0 0;
+  outline: medium none;
+  padding: 5px 10px;
+}
+#commentform p label,
+#commentform p span {
+  display: block;
+  float: left;
+}
+#commentform p label {
+  width: 100px;
+}
+/* WP COMMENTS END */
+/* NIECHE THEME 1 CSS */
+.clear {
+  clear: both;
+  content: ' ';
+  font-size: 0;
+  line-height: 0;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+.date-entry {
+  float: right;
+  padding-bottom: 10px;
+}
+#content article .autor {
+  float: left;
+}
+.ad_768x15 {
+  margin-top: 10px!important;
+}
+/*header nav {
+	border-radius:6px;
+	-webkit-border-radius:6px;
+}*/
+#content aside .sdrc,
+#content aside .sdlc {
+  background: none!important;
+}
+/* NIECHE THEME 1 CSS */
+/* GENERAL CSS */
+.alignleft,
+.alignright {
+  margin-bottom: 10px!important;
+}
+.left {
+  float: left;
+}
+.left-i {
+  float: left!important;
+}
+.right {
+  float: right;
+}
+.right-i {
+  float: right!important;
+}
+.center {
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+.center img {
+  display: inline!important;
+}
+.pb-15 {
+  padding-bottom: 15px;
+}
+aside h2 {
+  font-family: 'AllerLightRegular', Arial;
+  font-weight: normal;
+  font-size: 20px;
+  padding-bottom: 8px;
+}
+aside ul.widget {
+  padding-bottom: 5px;
+}
+aside ul {
+  padding: 0px 10px 0px 10px;
+}
+aside ul li {
+  padding-bottom: 3px!important;
+}
+aside a {
+  color: #154082;
+}
+header nav ul {
+  padding-top: 0px!important;
+}
+header nav ul.menu-list-wrapper {
+  padding-top: 5px!important;
+}
+aside h1 {
+  padding-left: 5px;
+}
+#content article ol {
+  list-style-position: outside;
+  list-style-type: decimal;
+  margin: 0 0 10px 35px;
+}
+.ad_768x15_general {
+  max-width: 768px;
+  margin: 0 auto;
+}
+header {
+  padding-bottom: 3px!important;
+}
+#content {
+  padding-top: 15px!important;
+}
+.ad_300x250 {
+  background: none!important;
+  overflow: hidden;
+}
+#content article .postAds {
+  width: auto;
+  max-width: 620px;
+}
+.fixed-ad-width {
+  max-width: 310px!important;
+}
+nav#nav-below h3 {
+  font-size: 17px!important;
+  padding-bottom: 0px!important;
+  margin-bottom: 0px!important;
+}
+nav#nav-below div.nav-previous {
+  float: left;
+}
+nav#nav-below div.nav-next {
+  float: right;
+}
+nav#nav-below:after {
+  clear: both;
+}
+.gsc-table-result,
+.gsc-thumbnail-inside,
+.gsc-url-top {
+  padding-left: 0px!important;
+}
+.main-content-wrapper .date-entry {
+  color: #393939;
+}
+footer div.footer-left {
+  float: left;
+  /*width:720px;*/
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+footer div.footer-right {
+  float: right;
+  width: 190px;
+}
+#niche-support {
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+}
+blockquote {
+  margin: 5px 25px 10px!important;
+  padding: 5px 10px!important;
+  background: #eee!important;
+  border: #ccc solid 1px!important;
+  display: block!important;
+  text-align: justify;
+  font-size: 14px!important;
+  font-style: italic!important;
+}
+.entry-content img {
+  max-width: 100%!important;
+}
+blockquote p {
+  padding: 0px!important;
+  margin: 0px!important;
+}

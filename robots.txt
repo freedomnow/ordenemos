@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: http://www.ordenemos.com/sitemap.xml
+Sitemap: http://www.ordenemos.com/video-sitemap.xml
